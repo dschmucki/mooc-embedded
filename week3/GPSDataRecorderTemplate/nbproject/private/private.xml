@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/dev/mooc-embedded/week3/GPSDataRecorderTemplate/src/gpsdata/sensor/AdaFruitGPSUARTSensor.java</file>
+            <file>file:/C:/dev/mooc-embedded/week3/GPSDataRecorderTemplate/src/gpsdata/RecorderMidlet.java</file>
+            <file>file:/C:/dev/mooc-embedded/week3/GPSDataRecorderTemplate/src/gpsdata/persist/RMSPersistentStore.java</file>
+            <file>file:/C:/dev/mooc-embedded/week3/GPSDataRecorderTemplate/src/gpsdata/sensor/AdaFruitGPSSensor.java</file>
+            <file>file:/C:/dev/mooc-embedded/week3/GPSDataRecorderTemplate/src/mrsreader/ReaderMidlet.java</file>
+            <file>file:/C:/dev/mooc-embedded/week3/GPSDataRecorderTemplate/src/gpsdata/GPSTestMidlet.java</file>
+        </group>
+    </open-files>
+</project-private>
